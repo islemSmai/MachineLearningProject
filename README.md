@@ -33,6 +33,5 @@ We have downloaded a fuel consumption dataset, **`FuelConsumption.csv`**, which 
 - **FUEL CONSUMPTION in CITY(L/100 km)** e.g. 9.9
 - **FUEL CONSUMPTION in HWY (L/100 km)** e.g. 8.9
 - **FUEL CONSUMPTION COMB (L/100 km)** e.g. 9.2
-- **CO2 EMISSIONS (g/km)** e.g. 182   
-<br>
+- **CO2 EMISSIONS (g/km)** e.g. 182   --> low --> 0
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/islemSmai/MachineLearningProject/HEAD)
